@@ -33,7 +33,6 @@ pip install tensorflow keras scikit-learn matplotlib numpy scipy pandas
 1. Clona el repositorio a tu máquina local.
 2. Asegúrate de tener el conjunto de datos en la misma carpeta que el código.
 3. Ejecuta el código en Visual Studio Code con los pre-requisitos mencionados anteriormente instalados.
-4. Para el aprendizaje semi-supervisado, sigue las instrucciones en el archivo aparte incluido en el repositorio.
 
 ## Uso 🖥️
 
