@@ -44,7 +44,7 @@ Estamos abiertos a contribuciones. Si deseas contribuir al proyecto, ¡adelante!
 
 ## Autores ✒️
 
-- [**Iván Bozo**](https://github.com/IvanBozoCa) ==> Proyecto, `Informe`, código `Proyecto` y `data_self`.
+- [**Iván Bozo**](https://github.com/IvanBozoCa) ==> Proyecto, `Informe`, código `Proyecto` y código `data_self`.
 - [**Lukas Flores**](https://github.com/lukasFloresGonzalez) ==> Proyecto, `Informe` y código `Proyecto`
 - [**Nicolás Muñoz**](https://github.com/NicolocoX) ==> Proyecto, `Informe` y código `Proyecto`
 
